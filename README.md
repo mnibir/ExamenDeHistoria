@@ -7,7 +7,7 @@
   
 * 3 de tipo **radio**.
 
-Estas preguntas son de *única respuesta*. Hay que clicar con el ratón sobre la respuesta que creas correcta de entre las opciones propuestas.
+Estas preguntas son de **única respuesta**. Hay que clicar con el ratón sobre la respuesta que creas correcta de entre las opciones propuestas.
 
 * 2 de tipo **select**.
 
