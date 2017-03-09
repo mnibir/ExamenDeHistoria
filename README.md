@@ -28,9 +28,9 @@ Estas preguntas pueden ser de **respuesta única o múltiple**. Hay que clicar c
 * 3 preguntas sobre la **Edad Media**.
 * 3 preguntas sobre la **Edad Moderna y Contemporánea**.
 
-### El examen puntúa sobre 10. Todas las preguntas puntúan igual. Cada pregunta se considerará correcta sólo si es completamente correcta. **Sólo** se corregirá el examen y **se pondrá nota si has respondido a todas las preguntas y pulsas el botón EVALUAR**.
+### El examen puntúa sobre 10. Todas las preguntas puntúan igual. Cada pregunta se considerará correcta sólo si es completamente correcta. *Sólo* se corregirá el examen y *se pondrá nota si has respondido a todas las preguntas y pulsas el botón EVALUAR*.
 
-### Esta aplicación permite durante **5 minutos** resolver el examen tantas veces como consideres para que puedas **intentar obtener un 10 de nota**.
+### Esta aplicación permite durante *5 minutos* resolver el examen tantas veces como consideres para que puedas *intentar obtener un 10 de nota*.
 
 ### El botón COMENZAR DE NUEVO permite volver a empezar.
 
