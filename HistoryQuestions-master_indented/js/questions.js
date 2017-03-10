@@ -61,7 +61,8 @@ window.onload = function(){
                gestionarXml(this);
           }
      }
-     xhttp.open("GET", "https://rawgit.com/mnibir/HistoryQuestions/master/xml/preguntas.xml", true);   
+     //xhttp.open("GET", "https://rawgit.com/mnibir/HistoryQuestions/master/xml/preguntas.xml", true);   
+     xhttp.open("GET", "https://github.com/mnibir/ExamenDeHistoria/tree/master/HistoryQuestions-master_indented/xml/preguntas.xml",true);
      xhttp.send();
 
 
